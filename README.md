@@ -19,7 +19,6 @@ When entering transactions offline, they should populate the total when brought 
   - [Usage](#usage)
   - [License](#license)
   - [Contribution](#contribution)
-  - [Testing](#testing)
   - [Questions](#questions)
   - [Credits](#credits)
   
@@ -44,8 +43,6 @@ When entering transactions offline, they should populate the total when brought 
 
   ---
   
-  
-  ## Testing
   
 
   ## Questions  
