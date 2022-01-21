@@ -6,7 +6,6 @@ Budget Tracker application to allow for on/offline access
 
   Budget tracking application that allows user to add/subtract expenses. Utilizes data persistence to keep track of records when offline, then re-syncs with MONGODB database when back online.
   
-  [![license](https://img.shields.io/badge/license-MITLicense-blue)](https://shields.io)
   
   ## Table of Contents 
   
