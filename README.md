@@ -51,7 +51,7 @@ When entering transactions offline, they should populate the total when brought 
 
  
   ## Additional Info  
-  Application uses the following:  
+  Technologies:  
   -Node.js    
   -Mongoose/MongoDB    
   -IndexedDB    
