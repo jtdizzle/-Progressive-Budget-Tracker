@@ -1,12 +1,14 @@
 # -Progressive-Budget-Tracker  
-Budget Tracker application to allow for on/offline access  
+Budget Tracker application to allow for on/offline access.
+The user will be able to add expenses and deposits to their budget with or without a connection.  
+When entering transactions offline, they should populate the total when brought back online.
 
 
 ## Description
 
-  Budget tracking application that allows user to add/subtract expenses. Utilizes data persistence to keep track of records when offline, then re-syncs with MONGODB database when back online.
+  Budget tracking application that allows user to add/subtract expenses.  
+  Utilizes data persistence to keep track of records when offline, then re-syncs with MONGODB database when back online.
   
-  [![license](https://img.shields.io/badge/license-MITLicense-blue)](https://shields.io)
   
   ## Table of Contents 
   
@@ -45,18 +47,18 @@ Budget Tracker application to allow for on/offline access
   ## Testing
   
 
-  ## Questions
-  Github Profile: www.github.com/jtdizzle
-  Email: jacobgasper@gmail.com
+  ## Questions  
+  Github Profile: www.github.com/jtdizzle  
+  Email: jtdizzle747@yahoo.com  
 
  
-  ## Additional Info
-  Application uses the following:
-  -Node.js  
-  -Mongoose/MongoDB  
-  -IndexedDB  
-  -Heroku  
-  -Express  
+  ## Additional Info  
+  Application uses the following:  
+  -Node.js    
+  -Mongoose/MongoDB    
+  -IndexedDB    
+  -Heroku    
+  -Express    
   
   
 
